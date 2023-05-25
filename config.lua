@@ -10,8 +10,8 @@ Config.RandomDrugChance = true --if true it will enable random chance(if enabled
 
 --This is the drug items setup you can have as many or as few drug items as you want
 Config.DrugItems = {
-    { name = 'meat', effectime = 15000 }, --name is the items name in database, effect time is the time in ms you want the screen effect to go for if it is a good trip
-    { name = 'placehold', effectime = 60000 },
+    { name = 'acid', effectime = 60000 },  --name is the items name in database, effect time is the time in ms you want the screen effect to go for if it is a good trip
+    { name = 'moonshine', effectime = 60000 },
 }
 
 --Wave 1 npc spawn setup add or remove as many as you want
